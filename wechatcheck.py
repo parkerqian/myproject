@@ -1,6 +1,3 @@
-__author__ = 'qianparker'
-
-
 #!/usr/bin/env python
 #coding=utf-8
 

@@ -425,7 +425,7 @@ if sys.stdout.encoding == 'cp936':
 
 if __name__ == '__main__' :
 
-	print 'take care and user...'
+	print 'take care and use...'
 	print 'press enter and continue...'
 	raw_input()
 

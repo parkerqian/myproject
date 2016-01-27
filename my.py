@@ -13,3 +13,7 @@ print 4
 51+蓝护甲
 需求较大的材料
 45+紫武器责备
+
+
+附魔
+http://bbs.ngacn.cc/read.php?tid=216340&_fp=3756
